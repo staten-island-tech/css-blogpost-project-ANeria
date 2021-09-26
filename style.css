@@ -1,20 +1,48 @@
 body {
   background-color: pink;
   color: black;
-  font-size: 20px;
+  font-size: 1.2vw;
   font-family: "Open Sans", sans-serif;
 }
 .main-header {
-  font-size: 80px;
-  color: #e7b100;
+  font-size: 5vw;
+  color: rgb(252, 188, 11);
   text-align: center;
   margin-top: 15px;
   margin-bottom: 15px;
   font-weight: bold;
 }
 .description {
-  font-size: 20px;
+  font-size: 1.5vw;
   text-align: center;
   font-weight: bold;
   margin: 5px;
+}
+#itemtag {
+  font-size: 1.2vw;
+  font-weight: 800;
+}
+img {
+  width: 25vw;
+  border-radius: 15px;
+}
+.button {
+  background-color: white;
+  padding: 0.75vw;
+  font-size: 1vw;
+  border-radius: 69px;
+  border: black;
+  border-width: 100px;
+  color: black;
+}
+.post {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #eeb809;
+  margin: 50px 30vw;
+  padding: 20px;
+  padding-top: 30px;
+  text-align: center;
+  border-radius: 69px;
 }
