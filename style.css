@@ -24,7 +24,7 @@ body {
 }
 img {
   width: 25vw;
-  border-radius: 15px;
+  border-radius: 35px;
 }
 .button {
   background-color: white;
@@ -40,9 +40,9 @@ img {
   flex-direction: column;
   justify-content: center;
   background-color: #eeb809;
-  margin: 50px 30vw;
+  margin: 30px 30vw;
   padding: 20px;
   padding-top: 30px;
   text-align: center;
-  border-radius: 69px;
+  border-radius: 35px;
 }
